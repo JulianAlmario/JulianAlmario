@@ -5,13 +5,14 @@
 ## Hi there, I´m Julian Almario and welcome to my profile 👋
 
 ## About me🙎‍♂️
-### Systems Engineering student
+### Systems Engineering 
 
 - I am passionate about web development and enjoy creating interactive and user-friendly digital solutions.
-- I have a knowledge in HTML, CSS, and JavaScript, which I use to build well-structured, visually appealing, and interactive web pages.
+- I have a knowledge in HTML, CSS, JavaScript and TypeScript, which I use to build well-structured, visually appealing, and interactive web pages.
 - I use frameworks like tailwind css and React.
+- Skilled in Node.js for developing backend functionality and integrating APIs, complementing front-end applications.
 - I am focused on continuously improving my web development skills by enhancing my expertise in the technologies I already know and learning new technologies and best practices in the field.
-- Also, I have knowledge in Java, Python and Mysql, and have done some projects using them. 
+- Also, I have knowledge in Java, Python, Mysql and Mongodb, and have done some projects using them. 
 
 
 ## Languages and Tools🛠 
